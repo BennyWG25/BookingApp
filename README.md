@@ -13,3 +13,5 @@ Skills applicable:
 -Production Product Costing
 -Python Programming
 -Software design and validation
+
+This is editable directly from obsidian using GIT community plugin.
