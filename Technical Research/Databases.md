@@ -4,3 +4,7 @@ Relational databases seem the obvious choice as we know the structure of the dat
 A document database could work as schema may vary slightly from sport to sport. i.e. buggy hire? duration? outside? etc... This is object oriented so lends itself to python, javascript etc 
 Fauna DB is a flexible, web option for a multi-modal database. This makes it available to deploy at scale, and the backend self-manages to deal with data how you want it the best. [Fauna DB Video]() Uses graphQL.
 
+MongoDB is a common noSQL database service with wide integration.
+
+An API will need to be developed for the website to call upon and request the data. 
+
