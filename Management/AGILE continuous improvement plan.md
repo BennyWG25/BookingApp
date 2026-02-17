@@ -1,8 +1,8 @@
-AGILE breaks down development into two-week long sprints. This could be used for advanced time management. This is suitable as it AGILE focuses on reducing time-to-market, resource efficiency, and flexibility. 
+> AGILE breaks down development into two-week long sprints. At the end of each sprint, feedback is collected and guides the goals of the next sprint. This is suitable as it focuses on reducing time-to-market, resource efficiency, and flexibility. 
+> For our purposes, the agile process will help develop the minimum viable product, and after launch, the addition of new features guided by what the user wants most.
+> At the end of each sprint, user feedback is necessary for guiding the goals of the next sprint. This leads to iteration and improvement.
 
-At the end of each sprint, user feedback is necessary for guiding the goals of the next sprint. This leads to iteration and improvement.
-
-These should match the issues on the repo project. 
+These should match the issues on the repo project. On MS Project, the sprints should be subtasks but should be unconstrained, so they only wrapper true tasks with their own start times and dependents. 
 ## Sprint 1 : 16th Feb -> 2nd March
 - Producing exact product specification
 - Documenting design choices
