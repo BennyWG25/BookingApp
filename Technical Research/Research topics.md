@@ -1,8 +1,0 @@
-- Semantic Version naming (__version__ = "1.1.2") in Python
-- Namespace packaging to allow collaboration
-- reST format for docstrings
-- SOLID design principle <- mention in QMS for design/review cycle
-- Set design pattern for the team?
-- Diagrammatic design. Mermaid is a Javascript based plotting program. This would work with GIT version control.
-- UML used to model classes and object relationships
-- Singleton pattern, only one instant of an object preventing duplication
