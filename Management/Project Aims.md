@@ -1,12 +1,15 @@
 V1 - BWG25 - 25/11/26 - Broad project aims, to be reviewed collaboratively
 
 Project Title: Mad Swans Booking Prototype
-Aims: Design and build a prototype booking solution for a multi-sport country club (Mad Swans).
+
+
+Aims:
+- To produce a design for full web app and determine technical feasibility of features to help impove the current systems of a real business (Mad Swans) .
+- To construct a minimal viable product of the website demonstrating potential features and technical expertise of the team.
+- To create a presentation of the project suitable to be given to business officials . (Executive summary / Non scientific communication)
 
 Scope:
-- To produce a design for full web app and determine technical feasibility of features.
-- To build a demo site with the minimum viable product.
-- To present a clear business proposal for our solution. (Executive summary / Non scientific communication)
+The project only needs to be a demonstration of our skills and so a minimum viable product will be constructed , including technical features and a basic professional design. By the dealine of the project we need a working UX made with ReactJS, a database made using Mongodb and a bussiness proposal complete with production costing and market analysis.  
 
 Objectives:
 1. Build an interactive web app using licensed packages with core features which can be demoed by April 30th.
