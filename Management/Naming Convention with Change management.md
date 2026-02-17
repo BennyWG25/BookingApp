@@ -27,7 +27,7 @@ Development branch should be used for any contributed code awaiting testing prot
 
 ```mermaid
 gitGraph
-	commit
+	commit id:"v0.0.0"
 	branch development
 	commit id:"feature/dark-mode"
 	checkout main
