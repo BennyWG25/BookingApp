@@ -1,3 +1,5 @@
+[[Evidence-Version-Control.png]] 
+
 The GitHub repo is used for version control (releases), and minor changes through branches, pulls, and merges. As such names do not need to include version numbers or dates. 
 
 **Naming Files** 
@@ -32,4 +34,5 @@ Major.Minor.Patch
 Major changes will not support prior versions.
 Minor changes add features.
 Patches are bug fixes or refactoring optimisations.
+
 
