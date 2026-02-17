@@ -13,6 +13,7 @@ All code should live inside of the "code" portion of the repo. Folders inside of
 - utils/
 
 **Naming Branches**, branches should have a prefix tag to make it more readable. 
+Development branch should be used for any contributed code awaiting testing protocols.
 - Feature/
 	Releases of new feature modules
 - Bugfix/
@@ -23,6 +24,26 @@ All code should live inside of the "code" portion of the repo. Folders inside of
 	Changes in structuring of code. Merging/dividing methods etc..
 - Docs/
 	Updates to code or project documentation
+
+```mermaid
+gitGraph
+	commit
+	branch development
+	commit id:"feature/dark-mode"
+	checkout main
+	merge development
+	commit id:"v1.1.0"
+	checkout development
+	commit id:"feature/stripe-payments"
+	branch bugfix
+	commit id:"bugfix/stripe"
+	checkout development 
+	merge bugfix
+	checkout main
+	merge development
+	commit id:"Version 1.1.1"
+```
+
 
 **Merges** 
 The main branch should be reserved for production-ready code. Completed developments should work on a "development" branch which can be tested before being merged to main. 
