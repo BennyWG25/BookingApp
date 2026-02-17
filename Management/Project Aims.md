@@ -1,7 +1,7 @@
 V1 - BWG25 - 25/11/26 - Broad project aims, to be reviewed collaboratively
 V2 - AJ2507 - 16/02/26 - aims, scope and objectivies specified and improved 
 
-Project Title: Mad Swans Booking Prototype
+## Project Title: Mad Swans Booking Prototype
 
 
 Aims:
@@ -31,10 +31,10 @@ Risks: User needs may develop unpredictably during the project causing delays.
 ## WP2 : Planning and Project Set-up
 Aim: to have a set of files outlined to guide the project to completion and reduce uncertainity across the team
 Tasks:
-1.Create a roadmap to final project and a timeline including deadlines 
-2.Complete a risk assesment and implement ways to mitigate these risks
-3.Set up a suitable filing system to allow for easy access of files and a maintainble QMS
-4.Outline a continuous improvment plan
+1. Create a roadmap to final project and a timeline including deadlines 
+2. Complete a risk assesment and implement ways to mitigate these risks
+3. Set up a suitable filing system to allow for easy access of files and a maintainble QMS
+4. Outline a continuous improvment plan
 Milestones: Files are organised and procudures in place to start technical development of system.
 Deliverables: D1 - a Complete Gantt chart with critical path and analysis of risks to project deadline. D2 - Completed risk assesment table including mititgation columns. D3 - Naming conventon , test forms and a suitable file tree.
 
@@ -49,8 +49,8 @@ deliverables:D1 - a database suitable for technical requirements. D2 - a working
 ## WP4 : Frontend integration
 Aim: create a more suitable interface for the database 
 Tasks:
-1.Create a GUI with a suitable UX for the consumer considering accesability 
-2.Intergrate GUI with Database function for update, delete and query
+1. Create a GUI with a suitable UX for the consumer considering accesability 
+2. Intergrate GUI with Database function for update, delete and query
 milestones: total completed functionality of website with all technical specs met 
 deliverables:D1 - a functional website showcasing features with low end aesthetic devlopment.
 
