@@ -50,7 +50,7 @@ The main branch should be reserved for production-ready code. Completed developm
 Main merges should have an associated version release.
 
 **Versions** 
-Semantic versioning should be used, this is of the form:
+Semantic versioning should be used with GitHub releases, this is of the form:
 Major.Minor.Patch
 Major changes will not support prior versions.
 Minor changes add features.
