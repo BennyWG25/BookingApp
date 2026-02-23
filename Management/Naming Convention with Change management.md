@@ -26,6 +26,11 @@ Development branch should be used for any contributed code awaiting testing prot
 	Updates to code or project documentation
 
 ```mermaid
+---
+config:
+    theme: 'forest'
+---
+
 gitGraph
 	commit id:"v0.0.0"
 	branch development
