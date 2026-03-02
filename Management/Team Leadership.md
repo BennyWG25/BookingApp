@@ -10,14 +10,14 @@ Team Member and Roles:
 
 |                   | Ben | Zaid | Andrew |
 | ----------------- | :-: | :--: | :----: |
-| Documentation     |  3  |      |        |
-| Change Control    |  4  |      |        |
-| Time Management   |  2  |      |        |
-| Graphic Design    |  2  |      |        |
-| Data handling     |  3  |      |        |
-| Javascript        |  3  |      |        |
-| Business analysis |  4  |      |        |
-| Presentation      |  3  |      |        |
+| Documentation     |  3  |      |    4   |
+| Change Control    |  4  |      |    4   |
+| Time Management   |  2  |      |    3   |
+| Graphic Design    |  2  |      |    2   |
+| Data handling     |  3  |      |    3   |
+| Javascript        |  3  |      |    2   |
+| Business analysis |  4  |      |    5   |
+| Presentation      |  3  |      |    4   |
 
 ### Communication of Controversy with Civility
 - Every team member wants to get the most learning out of this project. 
