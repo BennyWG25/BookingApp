@@ -7,17 +7,18 @@ Team Member and Roles:
 	Andrew Jones, AJ - CTO, driving product development
 	Zaid Sajjid, ZS829 - Chief Product Officer, leading design and user experience
 ### Skills Matrix
+1 = no competency, 5 = expert
 
-|                   | Ben | Zaid | Andrew |
-| ----------------- | :-: | :--: | :----: |
-| Documentation     |  3  |      |    4   |
-| Change Control    |  4  |      |    4   |
-| Time Management   |  2  |      |    3   |
-| Graphic Design    |  2  |      |    2   |
-| Data handling     |  3  |      |    3   |
-| Javascript        |  3  |      |    2   |
-| Business analysis |  4  |      |    5   |
-| Presentation      |  3  |      |    4   |
+|                   | Ben | Zaid | Andrew | Jacob |
+| ----------------- | :-: | :--: | :----: | :---: |
+| Documentation     |  3  |      |    4   |   4   |
+| Change Control    |  4  |      |    4   |   2   |
+| Time Management   |  2  |      |    3   |   5   |
+| Graphic Design    |  2  |      |    2   |   2   |
+| Data handling     |  3  |      |    3   |   3   |
+| Javascript        |  3  |      |    2   |   1   |
+| Business analysis |  4  |      |    5   |   3   |
+| Presentation      |  3  |      |    4   |   5   |
 
 ### Communication of Controversy with Civility
 - Every team member wants to get the most learning out of this project. 
