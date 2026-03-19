@@ -8,8 +8,10 @@ Team Member and Roles:
 	Zaid Sajjid, ZS829 - Chief Product Officer, leading design and user experience
 	Jacob Lief, JL4407 - Quality assurance, scrutinising decisions and codebase.
 ### Skills Matrix
+1 = no competency, 5 = expert
 
 |                   | Ben | Zaid | Andrew | Jacob |
+<<<<<<< HEAD
 | ----------------- | :-: | :--: | :----: | ----- |
 | Documentation     |  4  |      |   4    |       |
 | Change Control    |  4  |      |   4    |       |
@@ -19,6 +21,17 @@ Team Member and Roles:
 | Javascript        |  3  |      |   2    |       |
 | Business analysis |  5  |      |   5    |       |
 | Presentation      |  3  |      |   4    |       |
+=======
+| ----------------- | :-: | :--: | :----: | :---: |
+| Documentation     |  3  |  4   |    4   |   4   |
+| Change Control    |  4  |  1   |    4   |   2   |
+| Time Management   |  2  |  3   |    3   |   5   |
+| Graphic Design    |  2  |  4   |    2   |   2   |
+| Data handling     |  3  |  2   |    3   |   3   |
+| Javascript        |  3  |  1   |    2   |   1   |
+| Business analysis |  4  |  4   |    5   |   3   |
+| Presentation      |  3  |  5   |    4   |   5   |
+>>>>>>> origin/Development
 
 ### Communication of Controversy with Civility
 - Every team member wants to get the most learning out of this project. 
